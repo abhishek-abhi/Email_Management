@@ -4,7 +4,7 @@ Link: <a href="https://abhishek-abhi.github.io/Email_Management/"><i>Click on th
 
 This is an Application aimed at managing Emails in a company.
 
-<strong>Developed By</strong>:  <h1>Abhishek Kumar Mandal</h1>
+<strong>Developed By</strong>:  <a href="https://abhishek-abhi.github.io/"><strong>Abhishek Kumar Mandal</strong></a>
 
 
 <strong>Description</strong> :
