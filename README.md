@@ -4,7 +4,7 @@ Link: <a href="https://abhishek-abhi.github.io/Email_Management/"><i>Click on th
 
 This is an Application aimed at managing Emails in a company.
 
-<strong>Developed By</strong>:  <b><h2>Abhishek Kumar Mandal</h2></b>
+<strong>Developed By</strong>:  #Abhishek Kumar Mandal
 
 
 <strong>Description</strong> :
@@ -22,7 +22,7 @@ This is an Application aimed at managing Emails in a company.
 
    5. Have get methods to display the name, email, and mailbox capacity
    
-   To checck the source codes visit the link <a href="https://github.com/abhishek-abhi/Email_Management/tree/develop"><i>Click on this<i></a>
+   To checck the source codes visit the link <a href="https://github.com/abhishek-abhi/Email_Management/tree/develop"><i>Click on this</i></a>
    
    
 <hr><strong>Technologies and Tools used :</strong>
