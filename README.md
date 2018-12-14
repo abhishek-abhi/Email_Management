@@ -22,7 +22,7 @@ This is an Application aimed at managing Emails in a company.
 
    5. Have get methods to display the name, email, and mailbox capacity
    
-   To checck the source codes visit the link <a href="https://github.com/abhishek-abhi/Email_Management/tree/develop"><i>Click on this</i></a>
+   To check the source codes visit the link <a href="https://github.com/abhishek-abhi/Email_Management/tree/develop"><i>Click on this</i></a>
    
    
 <hr><strong>Technologies and Tools used :</strong>
